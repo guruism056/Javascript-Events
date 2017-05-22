@@ -1,0 +1,1 @@
+* Adding functionality for starting a new song.
