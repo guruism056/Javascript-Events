@@ -1,0 +1,1 @@
+* Display the title of the photo when the last image is clicked.
