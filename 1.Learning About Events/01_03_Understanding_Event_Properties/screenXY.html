@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>screenX,screenY,clientX,cientY</title>
+
+</head>
+<body>
+	<script>
+		document.onmousemove=function(e){
+		 var evt=window.event || e; //cross browser event object
+		 console.log(evt.clientX+" : "+evt.clientY);
+		}
+	</script>
+</body>
+</html>
